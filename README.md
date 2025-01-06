@@ -2,9 +2,9 @@
 - 👀 I’m interested in Machine Learning, AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on the Internet
-- 📫 How to reach me ...
+- 📫 How to reach me ... timberalty@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm young
 
 <!---
 Tymbernet/Tymbernet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
